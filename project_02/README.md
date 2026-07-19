@@ -1,3 +1,5 @@
+![Working project](working-project.jpg)
+
 Description = playing with digital signals for various pins, learning about output/input pins, setting pins HIGH/LOW
 
 HIGH
